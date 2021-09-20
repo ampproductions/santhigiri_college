@@ -173,7 +173,7 @@ export default function PrimarySearchAppBar() {
             component="div"
             sx={{ display: { xs: 'none', sm: 'block' } }}
           >
-            MUI
+            <h5>Santhigiri College</h5>
           </Typography>
           <Search>
             <SearchIconWrapper>
